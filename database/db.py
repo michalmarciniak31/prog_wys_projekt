@@ -42,7 +42,7 @@ class DatabaseConfig:
 
 class Database:
     """
-    Simple helper for PostgreSQL access.
+    Simple helper for PostgresSQL access.
 
     Holds connection settings and provides small utilities
     like opening a connection and creating the required table.
